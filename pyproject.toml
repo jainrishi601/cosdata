@@ -13,4 +13,7 @@ dependencies = [
     "scipy>=1.15.1",
     "termcolor>=2.5.0",
     "tqdm>=4.67.1",
+    "py_rust_stemmers>=0.1.5",
+    "xxhash>=3.5.0"
+
 ]

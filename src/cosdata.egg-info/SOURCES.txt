@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+src/cosdata.egg-info/PKG-INFO
+src/cosdata.egg-info/SOURCES.txt
+src/cosdata.egg-info/dependency_links.txt
+src/cosdata.egg-info/requires.txt
+src/cosdata.egg-info/top_level.txt

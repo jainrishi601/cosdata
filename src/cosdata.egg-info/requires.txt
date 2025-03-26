@@ -1,0 +1,10 @@
+fastparquet>=2024.11.0
+numpy>=2.2.2
+pandas>=2.2.3
+polars>=1.22.0
+requests>=2.32.3
+scipy>=1.15.1
+termcolor>=2.5.0
+tqdm>=4.67.1
+py_rust_stemmers>=0.1.5
+xxhash>=3.5.0
